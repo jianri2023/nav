@@ -33,9 +33,9 @@ friendship_links_url: https://geneasy.github.io/links/
 ## 导航栏
 ################
 navigation_urls:
-  - title: 页面1
+  - title: 激光器
     url: page1/
-  - title: 页面2
+  - title: 激光技术
     url: page2/
 
 ################
